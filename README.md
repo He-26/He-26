@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
 </div>
 ### Hi there 👋
-<p>Welcome to Underrated graduate world. :)</p>
+<p> 🙋‍♂️ Welcome to Underrated graduate world. 👨‍🎓</p>
+<p>Im Gireesh Pitchuka. Im looking for a developer role in IT industry. I have knowledge on Java,DBMS,HTML,CSS 💪</p>
+<p>You see Nothing here that means im not nothing, I just hide everything.😄</p>
+<p>📫 How to reach me: Contact me directly on this<a href="https://linkedin.com/in/gireesh-pitchuka">Linkedin</a><a href="http://twitter.com/u_G_ily_gireesh">Twitter</a></p>
 
 <!--
 **He-26/He-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
