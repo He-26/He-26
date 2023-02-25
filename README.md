@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
+  <img src="welcome.jpg" width="600" height="200"/>
 </div>
 ### Hi there 👋
 <p> 🙋‍♂️ Welcome to Underrated graduate world. 👨‍🎓</p>
