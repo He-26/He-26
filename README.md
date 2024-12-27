@@ -4,7 +4,7 @@
 ### Hi there 👋
 <p> 🙋‍♂️ Welcome to Underrated graduate world. 👨‍🎓</p>
 <p>Im Gireesh Pitchuka. Im looking for a developer role in IT industry. I have knowledge on Java,DBMS,HTML,CSS 💪</p>
-<p>📫 How to reach me: Connect with me on this&nbsp;&nbsp;<a href="https://linkedin.com/in/gireesh-pitchuka">Linkedin</a>&nbsp;&nbsp;<a href="http://twitter.com/thanks_Gireesh">Twitter</a></p>
+<p>📫 How to reach me: Connect with me on this&nbsp;&nbsp;<a href="https://linkedin.com/in/gireesh-pitchuka">Linkedin</a>&nbsp;&nbsp;<a href="http://twitter.com/dummyyyyyyyyyyyyyyyyyyywhy">Twitter</a></p>
 
 ![](https://komarev.com/ghpvc/?username=He-26&color=green)
 <!--
